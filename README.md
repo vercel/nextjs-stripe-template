@@ -13,6 +13,10 @@ A responsive online store built with Next.js and Stripe for selling a single pro
 
 ## Getting Started
 
+Click the "Deploy" button to clone this repo, create a new Vercel project, setup the Stripe integration, and provision a new Stripe sandbox:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnextjs-stripe-template&project-name=nextjs-stripe-template&repository-name=nextjs-stripe-template&demo-title=Stripe+%26+Next.js+Starter+Template&demo-description=A+template+for+building+full-stack+Stripe+applications+using+Next.js+and+Vercel&demo-url=https%3A%2F%2Fnextjs-stripe-template.vercel.sh%2F&demo-image=https%3A%2F%2Fimages.stripeassets.com%2Ffzn2n1nzq965%2F4vVgZi0ZMoEzOhkcv7EVwK%2F74a13565998b4c56003c5ddc5aae43ce%2Ffavicon.png%3Fw%3D180%26h%3D180&products=%5B%7B%22integrationSlug%22%3A%22stripe%22%2C%22productSlug%22%3A%22stripe%22%2C%22protocol%22%3A%22other%22%2C%22type%22%3A%22integration%22%7D%5D)
+
 ### Prerequisites
 
 - Node.js 20+
