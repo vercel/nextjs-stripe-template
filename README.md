@@ -26,9 +26,9 @@ Click the "Deploy" button to clone this repo, create a new Vercel project, setup
 ### Installation
 
 1. **Install dependencies**:
-   \`\`\`bash
+   ```bash
    pnpm install
-   \`\`\`
+   ```
 
 2. **Set up Stripe**:
 
@@ -46,9 +46,9 @@ Use "Create Sandbox" or "Link Existing Account" for the Vercel Stripe integratio
 - Call `vercel env pull` or update `.env.local` file manually
 
 3. **Run the development server**:
-   \`\`\`bash
+   ```bash
    pnpm dev
-   \`\`\`
+   ```
 
 4. **Open** [http://localhost:3000](http://localhost:3000) in your browser
 
